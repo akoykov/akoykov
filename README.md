@@ -1,4 +1,4 @@
-## Коротко обо мне
+## About me
 ```Меня зовут Александр Койков.```   
 ```Увлекаюсь изучением технологий веб-разработки, разработки десктопных приложений, игр. ```  
 
@@ -60,6 +60,6 @@ graph TD
 %% END SCRIPT
 ```
 ### Обратная связь
-[![Static Badge](https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexkoykov)
+[![Static Badge](https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akoykov)
 [![Static Badge](https://img.shields.io/badge/send%20e--mail-%2326A5E4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:alexkoykov@inbox.ru)
 [![Static Badge](https://img.shields.io/badge/GIThub-%2326A5E4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexkoykov)
