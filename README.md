@@ -20,7 +20,7 @@
 graph TD
 %% DEFINE
 
-  ROOT@{shape: processes, label: "**SKILLS OF TECHNOLOGIES**"}
+  ROOT@{shape: processes, label: "**TECHNOLOGY STACK**"}
   
   git@{shape: div-rect, label: "Git"}
   github@{shape: div-rect, label: "GitHub"}
