@@ -41,8 +41,8 @@ graph TD
       github --> git
     end
 
-  ROOT ==> WEB
-    subgraph WEB [WEB TECHNOLOGIES]
+  ROOT ==> FRONTEND
+    subgraph FRONTEND [FRONTEND]
       css --> html 
       html --> css
 
